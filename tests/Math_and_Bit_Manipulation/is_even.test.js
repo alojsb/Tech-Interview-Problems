@@ -1,4 +1,4 @@
-import { isEven } from '../../problems/Math_and_Bit_Manipulation/is_even.js';
+import { isEven } from '../../problems/index.js';
 
 test('Check if even', () => {
   expect(isEven(6)).toBe(true);

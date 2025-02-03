@@ -1,4 +1,4 @@
-import { isPowerOfTwo } from '../../problems/Math_and_Bit_Manipulation/is_power_of_two.js';
+import { isPowerOfTwo } from '../../problems/index.js';
 
 test('checks if a number is a power of two', () => {
   expect(isPowerOfTwo(1)).toBe(true);

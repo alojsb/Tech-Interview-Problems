@@ -1,3 +1,4 @@
+// Find two numbers in an array that add up to a target sum
 export function twoSum(inputArray, desiredSum) {
   let numMap = new Map(); // Stores numbers we’ve seen so far
 

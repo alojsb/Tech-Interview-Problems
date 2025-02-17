@@ -5,6 +5,7 @@ export { findNonRepeatingLetter } from './Math_and_Bit_Manipulation/find_non-rep
 export { findNonRepeatingNumber } from './Math_and_Bit_Manipulation/find_non-repeating_number.js';
 export { fizzBuzz } from './Math_and_Bit_Manipulation/fizz_buzz.js';
 export { flipAllBits } from './Math_and_Bit_Manipulation/flip_all_bits.js';
+export { generatePrimes } from './Math_and_Bit_Manipulation/generate_primes.js';
 export { isPowerOfTwo } from './Math_and_Bit_Manipulation/is_power_of_two.js';
 export { isEven } from './Math_and_Bit_Manipulation/is_even.js';
 export { swapTwoLetters } from './Math_and_Bit_Manipulation/swap_two_letters.js';

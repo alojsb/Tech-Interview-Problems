@@ -5,10 +5,10 @@ test('check findOnlyNonRepeating', () => {
   expect(findNonRepeatingNumber([1,2,3,2,1])).toBe(3);
   expect(findNonRepeatingNumber([78,55,22,25,22,78,55,43,16,16,43])).toBe(25);
 
-  // negative tests
-  // non-integer values
+  // Negative tests
+  // Non-integer values
   expect(() => findNonRepeatingNumber(['ahoy','there','lil\'','fellow'])).toThrow(TypeError);
 });
 
-// to test individually
+// To test individually
 // npx jest -t "check findNonRepeatingNumber"

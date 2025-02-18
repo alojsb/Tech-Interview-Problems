@@ -1,3 +1,5 @@
+// Generates an array of primes in the range from 1 to the given integer
+
 export function generatePrimes(n) {
   let primes = [];
   let num = 2;
@@ -21,5 +23,5 @@ export function generatePrimes(n) {
 }
 
 
-// manual testing
-console.log(generatePrimes(8));
+// Manual testing
+// console.log(generatePrimes(8));

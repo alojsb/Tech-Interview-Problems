@@ -1,4 +1,5 @@
 // Find the only non-repeating letter in an array
+
 export function findNonRepeatingLetter(arr) {
   let result = 0;
 
@@ -11,10 +12,9 @@ export function findNonRepeatingLetter(arr) {
     }
   }
 
-  // Check if the result is a character (ASCII) or an integer
   return String.fromCharCode(result);
 }
 
 
-// manual testing
-console.log(findNonRepeatingLetter(['a','b','h','t','b','t','h']));
+// Manual testing
+// console.log(findNonRepeatingLetter(['a','b','h','t','b','t','h']));

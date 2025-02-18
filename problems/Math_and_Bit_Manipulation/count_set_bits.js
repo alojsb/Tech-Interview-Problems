@@ -1,4 +1,5 @@
 // Count the number of set bits (Hamming Weight)
+
 export function countSetBits(num) {
   let counter = 0;
   while (num > 0) {
@@ -10,6 +11,7 @@ export function countSetBits(num) {
 }
 
 
-console.log(countSetBits(26)); // Output: 3
-console.log(countSetBits(27)); // Output: 4
-console.log(countSetBits(16)); // Output: 1
+// Manual testing
+// console.log(countSetBits(26)); // Output: 3
+// console.log(countSetBits(27)); // Output: 4
+// console.log(countSetBits(16)); // Output: 1

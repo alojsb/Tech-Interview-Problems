@@ -6,5 +6,5 @@ test('check swapTwoNumbers', () => {
   expect(swapTwoLetters('t','m')).toStrictEqual(['m','t']);
 });
 
-// to test individually
+// To test individually
 // npx jest -t "check swapTwoLetters"

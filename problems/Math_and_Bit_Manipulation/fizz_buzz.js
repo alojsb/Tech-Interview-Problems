@@ -1,4 +1,5 @@
 // Print numbers from 1 to N, replacing multiples of 3 with "Fizz" and 5 with "Buzz"
+
 export function fizzBuzz(n) {
   let output = '';
 

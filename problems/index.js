@@ -8,5 +8,6 @@ export { flipAllBits } from './Math_and_Bit_Manipulation/flip_all_bits.js';
 export { generatePrimes } from './Math_and_Bit_Manipulation/generate_primes.js';
 export { isPowerOfTwo } from './Math_and_Bit_Manipulation/is_power_of_two.js';
 export { isEven } from './Math_and_Bit_Manipulation/is_even.js';
+export { primeFactorization, primeFactorizationFormatted} from './Math_and_Bit_Manipulation/prime_factorization.js';
 export { swapTwoLetters } from './Math_and_Bit_Manipulation/swap_two_letters.js';
 export { swapTwoNumbers } from './Math_and_Bit_Manipulation/swap_two_numbers.js';

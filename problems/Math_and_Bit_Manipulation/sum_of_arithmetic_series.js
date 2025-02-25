@@ -4,4 +4,4 @@ export function sumOfArithmeticSeries(firstTerm, commonDifference, numberOfTerms
 }
 
 // Manual testing
-// console.log(sumOfSeries(-4, 1.2, 100));
+console.log(sumOfArithmeticSeries(-4, 1.2, 100));

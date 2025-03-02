@@ -1,13 +1,6 @@
-// Find maximum depth of the binary tree
+import { TreeNode} from '../../classes/TreeNode.js';
 
-// Define a binary tree node class
-export class TreeNode {
-  constructor(value) {
-    this.value = value;
-    this.left = null;
-    this.right = null;
-  }
-}
+// Find maximum depth of the binary tree
 
 // Instantiate a binary tree
 const root = new TreeNode(5);

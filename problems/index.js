@@ -1,6 +1,8 @@
 export { maximumSubarray } from './Array_and_String/maximum_subarray.js';
 export { twoSum } from './Array_and_String/twoSum.js';
-export { TreeNode, maximumDepth } from './Binary_Tree_and_BST/maximum_depth.js';
+export { lowestCommonAncestor } from './Binary_Tree_and_BST/lowest_common_ancestor.js';
+export { lowestCommonAncestorAlt } from './Binary_Tree_and_BST/lowest_common_ancestor_alt.js';
+export { maximumDepth } from './Binary_Tree_and_BST/maximum_depth.js';
 export { countSetBits } from './Math_and_Bit_Manipulation/count_set_bits.js';
 export { decimalToBinary } from './Math_and_Bit_Manipulation/decimal_to_binary.js';
 export { findNonRepeatingLetter } from './Math_and_Bit_Manipulation/find_non-repeating_letter.js';

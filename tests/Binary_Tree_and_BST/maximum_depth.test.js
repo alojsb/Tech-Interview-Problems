@@ -1,4 +1,5 @@
-import { TreeNode, maximumDepth } from '../../problems/index.js';
+import { TreeNode } from '../../classes/TreeNode.js';
+import { maximumDepth } from '../../problems/index.js';
 
 test('check maximumDepth', () => { 
 

@@ -1,5 +1,6 @@
 export { maximumSubarray } from './Array_and_String/maximum_subarray.js';
 export { twoSum } from './Array_and_String/twoSum.js';
+export { TreeNode, maximumDepth } from './Binary_Tree_and_BST/maximum_depth.js';
 export { countSetBits } from './Math_and_Bit_Manipulation/count_set_bits.js';
 export { decimalToBinary } from './Math_and_Bit_Manipulation/decimal_to_binary.js';
 export { findNonRepeatingLetter } from './Math_and_Bit_Manipulation/find_non-repeating_letter.js';
@@ -9,7 +10,7 @@ export { flipAllBits } from './Math_and_Bit_Manipulation/flip_all_bits.js';
 export { generatePrimes } from './Math_and_Bit_Manipulation/generate_primes.js';
 export { isPowerOfTwo } from './Math_and_Bit_Manipulation/is_power_of_two.js';
 export { isEven } from './Math_and_Bit_Manipulation/is_even.js';
-export { primeFactorization, primeFactorizationFormatted} from './Math_and_Bit_Manipulation/prime_factorization.js';
+export { primeFactorization, primeFactorizationFormatted } from './Math_and_Bit_Manipulation/prime_factorization.js';
 export { sumToN } from './Math_and_Bit_Manipulation/sum_to_n.js';
 export { sumOfArithmeticSeries } from './Math_and_Bit_Manipulation/sum_of_arithmetic_series.js';
 export { sumOfGeometricSeries } from './Math_and_Bit_Manipulation/sum_of_geometric_series.js';

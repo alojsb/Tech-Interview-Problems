@@ -1,3 +1,4 @@
+export { maximumSubarray } from './Array_and_String/maximum_subarray.js';
 export { twoSum } from './Array_and_String/twoSum.js';
 export { countSetBits } from './Math_and_Bit_Manipulation/count_set_bits.js';
 export { decimalToBinary } from './Math_and_Bit_Manipulation/decimal_to_binary.js';
